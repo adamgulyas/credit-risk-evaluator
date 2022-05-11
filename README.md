@@ -1,7 +1,7 @@
 # Credit Risk Evaluator
 Using predictive models with peer-to-peer lending service data to predict applicant credit risk.
 
-# Final Questions
+# Results
 
 ## Resampling
 
